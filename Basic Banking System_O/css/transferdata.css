@@ -1,0 +1,34 @@
+p {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 90px;
+    text-align: center;
+    font-size: 23px;
+    
+}
+
+.btn1 {
+    display: block;
+    outline: none;
+    width: 270px;
+    height: 55px;
+    background-color: #a0ecff;
+    border-style: none;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 3px;
+    box-shadow: 0 0 5px 1px rgb(204, 204, 204);
+    transition: background-color 0.2s ease;
+    margin-left: 50%;
+    transform: translate(-50%);
+    margin-top: 70px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.btn1:hover {
+    background-color: #00d0ff;
+    color: white;
+}

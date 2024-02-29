@@ -1,0 +1,56 @@
+#customers-table {
+    border-collapse: collapse;
+    width: 80%;
+    margin-left: 50%;
+    margin-top: 15px;
+    transform: translate(-50%);
+   
+}
+  
+ .firstth {
+    border-top-left-radius: 20px;
+ }
+  
+.lastth {
+    border-top-right-radius: 20px;
+}
+#customers-table td,#customers-table th {
+    text-align: center;
+    border-collapse: collapse;
+    padding: 12px;
+    padding-left:25px;
+      
+}
+
+td {
+    font-size: 16px;
+}
+ 
+#customers-table tr:hover {
+    background-color: #233c7b;
+    color:white;
+}
+
+#customers-table th {
+    padding: 12px;
+    text-align: center;
+    color: #333131;
+    background-color: #d4dff8;
+}
+ 
+
+/* Transfer Button Styling */
+td .btn-a {
+    margin-left: 50%;
+}
+
+.btn-transfer {
+    text-decoration: none;
+    color: black;
+    background-color: #9dffb7;
+    text-align: center;
+    border: none;
+    border-radius: 4px;
+    padding: 5px;
+    margin-left: 4px;
+}

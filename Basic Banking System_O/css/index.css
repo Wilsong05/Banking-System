@@ -1,0 +1,12 @@
+/* for the heading in index.php */
+.content h1 {
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+
+/* for body color in index.php */
+.b1 {
+    background-color: #bde0ff;
+}
+ 
